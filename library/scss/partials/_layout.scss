@@ -32,7 +32,7 @@ Stylesheet: Layout Stylesheet
         }
 
       #sidebar-header {
-        @include grid(4, $push:4);
+        @include grid(4, $push:6);
         @include break(tablet, 12);
         @include break(mobile, 12);
       }
