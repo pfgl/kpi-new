@@ -6,7 +6,7 @@
 
             <div class="main" role="main">
 
-                <h1 class="page-title">Key PI News</h1>
+                <h1 class="page-title">Key Pensions &amp; Investments News</h1>
 
                 <div class="posts">
 
